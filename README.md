@@ -16,9 +16,3 @@
 </p>
 
 
-
-## Links
-
-- [Tanks Tutorial](https://learn.unity.com/project/tanks-tutorial), contains video tutorial, instructions, snippet codes.. (The best place to start).
-- [Tanks Assets](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-tutorial-46209).
-- [Tanks Tutorial Slides](https://connect-prd-cdn.unity.com/20190226/8099b21d-6563-424c-9e01-958fe16bdbf7_TanksTutorialSlideDeck_v1.pdf).
